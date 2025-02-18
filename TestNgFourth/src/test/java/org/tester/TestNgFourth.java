@@ -32,7 +32,7 @@ public class TestNgFourth extends BaseClass{
 	}
 	@Test(priority=1)
 	private void tc4() {
-		System.out.println("test case 4");
+		System.out.println("test case 4 updated for the github");
 
 	}
 	
